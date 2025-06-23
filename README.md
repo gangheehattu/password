@@ -1,5 +1,5 @@
 ```markdown
-# 암호 관리 프로그램 (Password Manager)
+## 암호 관리 프로그램 (Password Manager)
 
 표준 라이브러리만으로 구현한 CLI 기반 암호 관리자
 
